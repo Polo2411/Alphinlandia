@@ -1,0 +1,27 @@
+# Ignorar carpetas generadas por Unity
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Logs/
+**/.vs/
+**/.idea/
+**/.vscode/
+
+# Archivos generados por Visual Studio / Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
